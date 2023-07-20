@@ -7,7 +7,7 @@ public class ArrayListUse
 {
  public static void main(String args[])
  {
-	 ArrayList al=new ArrayList();
+	 ArrayList al=new ArrayList(); //create an object of array class and values into objects
 	 al.add("Rohit");
 	 al.add("Shraddha");
 	 al.add("Vivek");
